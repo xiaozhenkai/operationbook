@@ -13,11 +13,11 @@
 阅读：
 [**Write-through, write-around, write-back: cache explained**](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
 	
-	扩展阅读：
+扩展阅读：
 	
-	https://en.wikipedia.org/wiki/NVDIMM
+[NVDIMM](https://en.wikipedia.org/wiki/NVDIMM)non-volatile dual in-line memory module 非易失性双列直插式内存模块
 	
-	http://blog.csdn.net/lishuhuakai/article/details/8934540
+[关于按字寻址和按字节寻址的理解](http://blog.csdn.net/lishuhuakai/article/details/8934540)
 	
 Ceph
 	增加OSD：
