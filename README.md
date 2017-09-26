@@ -1,7 +1,5 @@
-# 基础篇
-## 存储
-### 磁盘阵列
-#### 缓存
+## 磁盘阵列
+### 缓存
 **Write-back**
 ![Write-back with write-allocation](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Write-back_with_write-allocation.svg/1000px-Write-back_with_write-allocation.svg.png)
 
@@ -15,20 +13,22 @@
 	
 扩展阅读：
 	
-[NVDIMM](https://en.wikipedia.org/wiki/NVDIMM)non-volatile dual in-line memory module 非易失性双列直插式内存模块
+[NVDIMM](https://en.wikipedia.org/wiki/NVDIMM) **non-volatile dual in-line memory module 非易失性双列直插式内存模块**
 	
 [关于按字寻址和按字节寻址的理解](http://blog.csdn.net/lishuhuakai/article/details/8934540)
 
 [Cache 的 write back 和 write through](http://benjr.tw/20361)
 
-Ceph
-	增加OSD：
-		[替换OSD操作的优化与分析](http://www.zphj1987.com/2016/09/19/%E6%9B%BF%E6%8D%A2OSD%E6%93%8D%E4%BD%9C%E7%9A%84%E4%BC%98%E5%8C%96%E4%B8%8E%E5%88%86%E6%9E%90/)
-		[‘noout’ flag in Ceph](https://arvimal.blog/2015/05/28/what-does-the-noout-status-on-the-osds-actually-do/)
+## 分布式存储
+### Ceph
+#### 增减OSD：
+[**替换OSD操作的优化与分析**](http://www.zphj1987.com/2016/09/19/%E6%9B%BF%E6%8D%A2OSD%E6%93%8D%E4%BD%9C%E7%9A%84%E4%BC%98%E5%8C%96%E4%B8%8E%E5%88%86%E6%9E%90/)
+[‘noout’ flag in Ceph](https://arvimal.blog/2015/05/28/what-does-the-noout-status-on-the-osds-actually-do/)
+```
 	ssd cache 日志 journal
 	mon/osd 1 2 3 4 5 五台机器当存储，用户存储的时候访问mon，mon在告诉用户去哪里存储数据
 	ceph 监控 ceph-dash
-	
+```	
 	硬盘测试
 	Reliable Autonomic Distributed Object Store （RADOS）可靠的自主分布式对象存储 bench
 	
