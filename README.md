@@ -1,11 +1,17 @@
-缓存
+# 基础篇
+## 存储
+### 磁盘阵列
+#### 缓存
 	Write-back
 	Write-through
 	Write-around
 reference：
 	http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained
+	
 	扩展阅读：
+	
 	https://en.wikipedia.org/wiki/NVDIMM
+	
 	http://blog.csdn.net/lishuhuakai/article/details/8934540
 	
 Ceph
