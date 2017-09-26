@@ -10,8 +10,10 @@
 
 阅读：
 [**Write-through, write-around, write-back: cache explained**](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
-	
-扩展阅读：
+
+[阵列Cache写机制：Write-through与Write-back区别](http://dangzhiqiang.blog.51cto.com/7961271/1402145)
+
+**扩展阅读：**
 	
 [NVDIMM](https://en.wikipedia.org/wiki/NVDIMM) **non-volatile dual in-line memory module 非易失性双列直插式内存模块**
 	
