@@ -9,6 +9,7 @@
 **Write-around**
 
 阅读：
+
 [**Write-through, write-around, write-back: cache explained**](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
 
 [阵列Cache写机制：Write-through与Write-back区别](http://dangzhiqiang.blog.51cto.com/7961271/1402145)
