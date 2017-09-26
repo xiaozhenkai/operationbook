@@ -18,7 +18,9 @@
 [NVDIMM](https://en.wikipedia.org/wiki/NVDIMM)non-volatile dual in-line memory module 非易失性双列直插式内存模块
 	
 [关于按字寻址和按字节寻址的理解](http://blog.csdn.net/lishuhuakai/article/details/8934540)
-	
+
+[Cache 的 write back 和 write through](http://benjr.tw/20361)
+
 Ceph
 	增加OSD：
 		[替换OSD操作的优化与分析](http://www.zphj1987.com/2016/09/19/%E6%9B%BF%E6%8D%A2OSD%E6%93%8D%E4%BD%9C%E7%9A%84%E4%BC%98%E5%8C%96%E4%B8%8E%E5%88%86%E6%9E%90/)
