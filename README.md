@@ -2,14 +2,16 @@
 ## 存储
 ### 磁盘阵列
 #### 缓存
-	Write-back
+**Write-back**
 ![Write-back with write-allocation](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Write-back_with_write-allocation.svg/1000px-Write-back_with_write-allocation.svg.png)
 
-	Write-through
+**Write-through**
 ![Write-through with no-write-allocation](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Write-through_with_no-write-allocation.svg/2000px-Write-through_with_no-write-allocation.svg.png)
-	Write-around
-reference：
-	http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained
+
+**Write-around**
+
+阅读：
+[**Write-through, write-around, write-back: cache explained**](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
 	
 	扩展阅读：
 	
