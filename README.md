@@ -1,12 +1,11 @@
 ## 磁盘阵列
-### 缓存
+### 缓存策略
 **Write-back**
 ![Write-back with write-allocation](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Write-back_with_write-allocation.svg/1000px-Write-back_with_write-allocation.svg.png)
 
 **Write-through**
 ![Write-through with no-write-allocation](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Write-through_with_no-write-allocation.svg/2000px-Write-through_with_no-write-allocation.svg.png)
 
-**Write-around**
 
 阅读：
 
