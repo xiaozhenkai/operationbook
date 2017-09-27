@@ -8,10 +8,11 @@
 
 
 阅读：
+#### [raid 控制器对系统性能的影响](https://highdb.com/raid-%E6%8E%A7%E5%88%B6%E5%99%A8%E5%AF%B9%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/)
 
-[**Write-through, write-around, write-back: cache explained**](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
+#### [Write-through, write-around, write-back: cache explained](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
 
-[阵列Cache写机制：Write-through与Write-back区别](http://dangzhiqiang.blog.51cto.com/7961271/1402145)
+#### [阵列Cache写机制：Write-through与Write-back区别](http://dangzhiqiang.blog.51cto.com/7961271/1402145)
 
 **扩展阅读：**
 	
