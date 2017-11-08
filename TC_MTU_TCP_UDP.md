@@ -8,9 +8,9 @@
 
 ### [浅谈RAID写惩罚（Write Penalty）与IOPS计算](https://community.emc.com/docs/DOC-26624)
 
-[raid 控制器对系统性能的影响](https://highdb.com/raid-%E6%8E%A7%E5%88%B6%E5%99%A8%E5%AF%B9%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/)
+### [raid 控制器对系统性能的影响](https://highdb.com/raid-%E6%8E%A7%E5%88%B6%E5%99%A8%E5%AF%B9%E7%B3%BB%E7%BB%9F%E6%80%A7%E8%83%BD%E7%9A%84%E5%BD%B1%E5%93%8D/)
 
-[MySQL高可用架构之MHA](http://www.cnblogs.com/gomysql/p/3675429.html)
+### [MySQL高可用架构之MHA](http://www.cnblogs.com/gomysql/p/3675429.html)
 
 ## MTU/IP/TCP
 ### [【大咖讲网络】MTU导致的悲剧](http://www.sohu.com/a/158388912_262201)
